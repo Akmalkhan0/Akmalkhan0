@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akmalkhan0
 - 👀 I’m interested in Android development 
 - 🌱 I’m currently learning about full stack development 
-- 💞️ I’m looking to collaborate on Google 
+- 💞️ I’m looking to collaborate with anyonw who interested in coding
 - 📫 How to reach me akmalkhann0@gmail.com
 - 😄 Pronouns: (he/him)
 - ⚡ Fun fact: i am funny
