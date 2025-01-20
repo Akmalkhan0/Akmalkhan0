@@ -1,5 +1,5 @@
 Canvas <h1 align="center">Hi 👋, I'm Akmal Khan</h1>
-<h3 align="center">A passionate About web development and Also in Field of Artificial intelligence and Machine learning </h3>
+<h3 align="center">A passionate About web development and App development Also have interested in Artificial intelligence and Machine learning </h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
