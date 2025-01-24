@@ -4,9 +4,9 @@ Canvas <h1 align="center">Hi 👋, I'm Akmal Khan</h1>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/Akmalkhan0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akmal-khan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/Akmalkhann0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="akmal-khan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/Akmalkhann0" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="akmal-khan" height="35" width="35" /></a>
 <a href="https://leetcode.com/u/akmalkhan0/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp" alt="akmal-khan" height="30" width="40" /></a>
-</p>
+</p>11
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
