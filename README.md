@@ -51,8 +51,8 @@
   <a href="https://github.com/Akmalkhan0/Data-Structure" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmalkhan0&repo=Data-Structure&theme=shadow_red" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Akmalkhan0/Skill_locator" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmalkhan0&repo=Skill_locator&theme=shadow_red" />
+  <a href="https://github.com/Akmalkhan0/weather-app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmalkhan0&repo=weather-app&theme=shadow_red" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmalkhan0&theme=shadow_red&hide_border=false&layout=compact">
 </h3>
