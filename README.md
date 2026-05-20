@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akmal Khan</h1>
-<h3 align="center">I Am passionate About web development and App development Also have interested in Artificial intelligence and Machine learning</h3>
-<h3 align="center">🚀 Passionate about Web & App Development | Interested in AI & ML</h3>
+<h3 align="center">I am passionated about Web Development and App Development also have interest in Artificial Intelligence and Machine Learning</h3>
 
 ---
 
